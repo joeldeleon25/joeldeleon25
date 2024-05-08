@@ -8,6 +8,7 @@ A passionate developer from El Salvador to the world.
 - ⚡ Fun fact: Trust Only In The Force - Cal Kestis
 
 Languages and Tools:
-android angular css3 figma firebase html5 illustrator java javascript kotlin mongodb mysql nodejs react reactnative sqlite typescript
+
+
 
 
