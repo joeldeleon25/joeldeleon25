@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello There 👋
 
-<!--
-**joeldeleon25/joeldeleon25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate developer from El Salvador to the world.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on mobil app to create a list for supermarket products
+- 🌱 I’m currently learning Kotlin & Swift
+- 👯 I’m looking to collaborate on proyects that help me to get even more experience
+- ⚡ Fun fact: Trust Only In The Force - Cal Kestis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+android angular css3 figma firebase html5 illustrator java javascript kotlin mongodb mysql nodejs react reactnative sqlite typescript
+
+
